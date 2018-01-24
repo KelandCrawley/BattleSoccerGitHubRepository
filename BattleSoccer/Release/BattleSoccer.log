@@ -1,0 +1,51 @@
+﻿  Player.cpp
+Player.cpp(168): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Player.cpp(120): warning C4390: ';': empty controlled statement found; is this the intent?
+Player.cpp(123): warning C4390: ';': empty controlled statement found; is this the intent?
+Player.cpp(126): warning C4390: ';': empty controlled statement found; is this the intent?
+Player.cpp(129): warning C4390: ';': empty controlled statement found; is this the intent?
+Player.cpp(141): warning C4390: ';': empty controlled statement found; is this the intent?
+Player.cpp(145): warning C4390: ';': empty controlled statement found; is this the intent?
+Player.cpp(148): warning C4390: ';': empty controlled statement found; is this the intent?
+Player.cpp(151): warning C4390: ';': empty controlled statement found; is this the intent?
+Player.cpp(211): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Player.cpp(267): warning C4018: '<': signed/unsigned mismatch
+Player.cpp(302): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+Player.cpp(303): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Player.cpp(312): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+Player.cpp(313): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Player.cpp(327): warning C4018: '<': signed/unsigned mismatch
+Player.cpp(345): warning C4018: '<': signed/unsigned mismatch
+Player.cpp(381): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Player.cpp(382): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Player.cpp(426): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Player.cpp(427): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Player.cpp(481): warning C4390: ';': empty controlled statement found; is this the intent?
+Player.cpp(484): warning C4390: ';': empty controlled statement found; is this the intent?
+Player.cpp(487): warning C4390: ';': empty controlled statement found; is this the intent?
+Player.cpp(490): warning C4390: ';': empty controlled statement found; is this the intent?
+Player.cpp(502): warning C4390: ';': empty controlled statement found; is this the intent?
+Player.cpp(506): warning C4390: ';': empty controlled statement found; is this the intent?
+Player.cpp(509): warning C4390: ';': empty controlled statement found; is this the intent?
+Player.cpp(512): warning C4390: ';': empty controlled statement found; is this the intent?
+Player.cpp(878): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Player.cpp(882): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Player.cpp(888): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Player.cpp(893): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Player.cpp(943): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Player.cpp(947): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Player.cpp(1036): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Player.cpp(1137): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Player.cpp(1152): warning C4018: '<': signed/unsigned mismatch
+Player.cpp(1213): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Player.cpp(1224): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(1225): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(1226): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+Player.cpp(1227): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+     Creating library C:\Users\Keland\documents\visual studio 2017\Projects\BattleSoccer\Release\BattleSoccer.lib and object C:\Users\Keland\documents\visual studio 2017\Projects\BattleSoccer\Release\BattleSoccer.exp
+  Generating code
+  2 of 4458 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    73 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  BattleSoccer.vcxproj -> C:\Users\Keland\documents\visual studio 2017\Projects\BattleSoccer\Release\BattleSoccer.exe

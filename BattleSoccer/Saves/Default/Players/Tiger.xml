@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Name value="Tiger"/>
+<PlayerStrength value="90"/>
+<PlayerSPeed value="325"/>
+<PlayerShoot value="75"/>
+<PlayerCatch value="92"/>
+<PlayerPosition value="GL"/>
+<PlayerAbility value="VoidChain"/>
+

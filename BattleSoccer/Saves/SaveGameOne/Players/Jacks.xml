@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Name value="Jacks"/>
+<PlayerStrength value="66"/>
+<PlayerSPeed value="300"/>
+<PlayerShoot value="90"/>
+<PlayerCatch value="62"/>
+<PlayerPosition value="LW"/>
+<PlayerAbility value="CurveShot"/>
+

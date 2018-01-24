@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Name value="Loris"/>
+<PlayerStrength value="92"/>
+<PlayerSPeed value="300"/>
+<PlayerShoot value="65"/>
+<PlayerCatch value="79"/>
+<PlayerPosition value="UD"/>
+<PlayerAbility value="VoidChain"/>
+

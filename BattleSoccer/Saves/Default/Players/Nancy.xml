@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Name value="Nancy"/>
+<PlayerStrength value="80"/>
+<PlayerSPeed value="300"/>
+<PlayerShoot value="65"/>
+<PlayerCatch value="70"/>
+<PlayerPosition value="UW"/>
+<PlayerAbility value="VoidChain"/>
+

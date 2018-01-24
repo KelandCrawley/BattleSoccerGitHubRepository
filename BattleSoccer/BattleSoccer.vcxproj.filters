@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Processes">
+      <UniqueIdentifier>{87162859-8ebc-4d8c-b848-01a26d29c8b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\AI">
+      <UniqueIdentifier>{e8ad2199-af51-4d9a-9e8a-bd381715ab72}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\AI">
+      <UniqueIdentifier>{8aa6e1f5-38dd-4015-aca9-ddd0dfffbe9b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Menus">
+      <UniqueIdentifier>{16882988-fd30-45a9-916b-72d95e3a72e4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Menus">
+      <UniqueIdentifier>{e718124e-3f25-4835-bc26-1c106264599e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Processes">
+      <UniqueIdentifier>{83a71916-f4d2-432c-843e-ae6b3cf1c7db}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\GameEntities">
+      <UniqueIdentifier>{16c6aa21-8dd7-415e-8603-8e8a1f3a7dce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GameEntities">
+      <UniqueIdentifier>{247c76ae-9934-4bd8-907f-a587686e463e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Helper">
+      <UniqueIdentifier>{75c73761-ff5b-41c2-8241-02c1e50a1853}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Helper">
+      <UniqueIdentifier>{c72f3961-7f10-44c4-a1d0-2c83966a103d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EventHandler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MatchSession.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="InputManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ProcessManager.cpp">
+      <Filter>Source Files\Processes</Filter>
+    </ClCompile>
+    <ClCompile Include="Process.cpp">
+      <Filter>Source Files\Processes</Filter>
+    </ClCompile>
+    <ClCompile Include="AnimationProcess.cpp">
+      <Filter>Source Files\Processes</Filter>
+    </ClCompile>
+    <ClCompile Include="TimerProcess.cpp">
+      <Filter>Source Files\Processes</Filter>
+    </ClCompile>
+    <ClCompile Include="Buff.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ProjectileProcess.cpp">
+      <Filter>Source Files\Processes</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaManager.cpp">
+      <Filter>Source Files\AI</Filter>
+    </ClCompile>
+    <ClCompile Include="RNGClass.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FloatingTextProcess.cpp">
+      <Filter>Source Files\Processes</Filter>
+    </ClCompile>
+    <ClCompile Include="MainMenu.cpp">
+      <Filter>Source Files\Menus</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Source Files\GameEntities</Filter>
+    </ClCompile>
+    <ClCompile Include="Team.cpp">
+      <Filter>Source Files\GameEntities</Filter>
+    </ClCompile>
+    <ClCompile Include="GameEntityManager.cpp">
+      <Filter>Source Files\GameEntities</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerCard.cpp">
+      <Filter>Source Files\GameEntities</Filter>
+    </ClCompile>
+    <ClCompile Include="PreMatchMenu.cpp">
+      <Filter>Source Files\Menus</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu.cpp">
+      <Filter>Source Files\Menus</Filter>
+    </ClCompile>
+    <ClCompile Include="PopUpMenu.cpp">
+      <Filter>Source Files\Menus</Filter>
+    </ClCompile>
+    <ClCompile Include="FileManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SettingsMenu.cpp">
+      <Filter>Source Files\Menus</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EventHandler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MatchSession.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="InputManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EventTypes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ProcessManager.h">
+      <Filter>Header Files\Processes</Filter>
+    </ClInclude>
+    <ClInclude Include="Process.h">
+      <Filter>Header Files\Processes</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimationProcess.h">
+      <Filter>Header Files\Processes</Filter>
+    </ClInclude>
+    <ClInclude Include="TimerProcess.h">
+      <Filter>Header Files\Processes</Filter>
+    </ClInclude>
+    <ClInclude Include="Buff.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ProjectileProcess.h">
+      <Filter>Header Files\Processes</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaManager.h">
+      <Filter>Header Files\AI</Filter>
+    </ClInclude>
+    <ClInclude Include="RNGClass.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FloatingTextProcess.h">
+      <Filter>Header Files\Processes</Filter>
+    </ClInclude>
+    <ClInclude Include="MainMenu.h">
+      <Filter>Header Files\Menus</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Header Files\GameEntities</Filter>
+    </ClInclude>
+    <ClInclude Include="Team.h">
+      <Filter>Header Files\GameEntities</Filter>
+    </ClInclude>
+    <ClInclude Include="GameEntityManager.h">
+      <Filter>Header Files\GameEntities</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerCard.h">
+      <Filter>Header Files\GameEntities</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu.h">
+      <Filter>Header Files\Menus</Filter>
+    </ClInclude>
+    <ClInclude Include="PreMatchMenu.h">
+      <Filter>Header Files\Menus</Filter>
+    </ClInclude>
+    <ClInclude Include="PopUpMenu.h">
+      <Filter>Header Files\Menus</Filter>
+    </ClInclude>
+    <ClInclude Include="FileManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SettingsMenu.h">
+      <Filter>Header Files\Menus</Filter>
+    </ClInclude>
+    <ClInclude Include="MathHelper.hpp">
+      <Filter>Header Files\Helper</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DecisionTree.lua">
+      <Filter>Source Files\AI</Filter>
+    </None>
+    <None Include="PlayerManager.lua">
+      <Filter>Source Files\AI</Filter>
+    </None>
+    <None Include="MathHelper.inl">
+      <Filter>Source Files\Helper</Filter>
+    </None>
+  </ItemGroup>
+</Project>

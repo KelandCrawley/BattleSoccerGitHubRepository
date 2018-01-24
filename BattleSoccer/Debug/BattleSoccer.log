@@ -1,0 +1,32 @@
+﻿  SettingsMenu.cpp
+c:\users\keland\documents\visual studio 2017\projects\battlesoccer\battlesoccer\settingsmenu.cpp(217): warning C4244: 'argument': conversion from '::size_t' to 'float', possible loss of data
+c:\users\keland\documents\visual studio 2017\projects\battlesoccer\battlesoccer\settingsmenu.cpp(218): warning C4244: 'argument': conversion from '::size_t' to 'float', possible loss of data
+c:\users\keland\documents\visual studio 2017\projects\battlesoccer\battlesoccer\settingsmenu.cpp(219): warning C4244: 'argument': conversion from '::size_t' to 'float', possible loss of data
+c:\users\keland\documents\visual studio 2017\projects\battlesoccer\battlesoccer\settingsmenu.cpp(220): warning C4244: 'argument': conversion from '::size_t' to 'float', possible loss of data
+c:\users\keland\documents\visual studio 2017\projects\battlesoccer\battlesoccer\settingsmenu.cpp(221): warning C4244: 'argument': conversion from '::size_t' to 'float', possible loss of data
+c:\users\keland\documents\visual studio 2017\projects\battlesoccer\battlesoccer\settingsmenu.cpp(222): warning C4244: 'argument': conversion from '::size_t' to 'float', possible loss of data
+c:\users\keland\documents\visual studio 2017\projects\battlesoccer\battlesoccer\settingsmenu.cpp(238): warning C4018: '<': signed/unsigned mismatch
+c:\users\keland\documents\visual studio 2017\projects\battlesoccer\battlesoccer\settingsmenu.cpp(263): warning C4018: '<': signed/unsigned mismatch
+c:\users\keland\documents\visual studio 2017\projects\battlesoccer\battlesoccer\settingsmenu.cpp(287): warning C4018: '<': signed/unsigned mismatch
+c:\users\keland\documents\visual studio 2017\projects\battlesoccer\battlesoccer\settingsmenu.cpp(293): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\keland\documents\visual studio 2017\projects\battlesoccer\battlesoccer\settingsmenu.cpp(294): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\keland\documents\visual studio 2017\projects\battlesoccer\battlesoccer\settingsmenu.cpp(295): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\keland\documents\visual studio 2017\projects\battlesoccer\battlesoccer\settingsmenu.cpp(296): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\keland\documents\visual studio 2017\projects\battlesoccer\battlesoccer\settingsmenu.cpp(297): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\keland\documents\visual studio 2017\projects\battlesoccer\battlesoccer\settingsmenu.cpp(298): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\keland\documents\visual studio 2017\projects\battlesoccer\battlesoccer\settingsmenu.cpp(299): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\keland\documents\visual studio 2017\projects\battlesoccer\battlesoccer\settingsmenu.cpp(300): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\keland\documents\visual studio 2017\projects\battlesoccer\battlesoccer\settingsmenu.cpp(360): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\keland\documents\visual studio 2017\projects\battlesoccer\battlesoccer\settingsmenu.cpp(360): warning C4244: 'argument': conversion from '::size_t' to 'float', possible loss of data
+c:\users\keland\documents\visual studio 2017\projects\battlesoccer\battlesoccer\settingsmenu.cpp(361): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\keland\documents\visual studio 2017\projects\battlesoccer\battlesoccer\settingsmenu.cpp(361): warning C4244: 'argument': conversion from '::size_t' to 'float', possible loss of data
+c:\users\keland\documents\visual studio 2017\projects\battlesoccer\battlesoccer\settingsmenu.cpp(362): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\keland\documents\visual studio 2017\projects\battlesoccer\battlesoccer\settingsmenu.cpp(362): warning C4244: 'argument': conversion from '::size_t' to 'float', possible loss of data
+c:\users\keland\documents\visual studio 2017\projects\battlesoccer\battlesoccer\settingsmenu.cpp(363): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\keland\documents\visual studio 2017\projects\battlesoccer\battlesoccer\settingsmenu.cpp(363): warning C4244: 'argument': conversion from '::size_t' to 'float', possible loss of data
+c:\users\keland\documents\visual studio 2017\projects\battlesoccer\battlesoccer\settingsmenu.cpp(364): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\keland\documents\visual studio 2017\projects\battlesoccer\battlesoccer\settingsmenu.cpp(364): warning C4244: 'argument': conversion from '::size_t' to 'float', possible loss of data
+c:\users\keland\documents\visual studio 2017\projects\battlesoccer\battlesoccer\settingsmenu.cpp(365): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\keland\documents\visual studio 2017\projects\battlesoccer\battlesoccer\settingsmenu.cpp(365): warning C4244: 'argument': conversion from '::size_t' to 'float', possible loss of data
+  BattleSoccer.vcxproj -> C:\Users\Keland\documents\visual studio 2017\Projects\BattleSoccer\Debug\BattleSoccer.exe
+  BattleSoccer.vcxproj -> C:\Users\Keland\documents\visual studio 2017\Projects\BattleSoccer\Debug\BattleSoccer.pdb (Partial PDB)

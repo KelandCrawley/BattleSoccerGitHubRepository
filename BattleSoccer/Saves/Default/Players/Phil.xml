@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Name value="Phil"/>
+<PlayerStrength value="60"/>
+<PlayerSPeed value="300"/>
+<PlayerShoot value="80"/>
+<PlayerCatch value="60"/>
+<PlayerPosition value="CA"/>
+<PlayerAbility value="CurveShot"/>
+

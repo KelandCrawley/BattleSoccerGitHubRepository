@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+	<GameVolume value="0"/>
+	<MusicVolume value="0"/>
+	<MoveUp value="22"/>
+	<MoveDown value="18"/>
+	<MoveRight value="3"/>
+	<MoveLeft value="0"/>
+	<SwitchToClosestPlayer value="60"/>
+	<UseAbility value="57"/>
+</Settings>
+

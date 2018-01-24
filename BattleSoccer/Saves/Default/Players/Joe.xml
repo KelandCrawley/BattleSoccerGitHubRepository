@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Name value="Joe"/>
+<PlayerStrength value="72"/>
+<PlayerSPeed value="250"/>
+<PlayerShoot value="60"/>
+<PlayerCatch value="80"/>
+<PlayerPosition value="GL"/>
+<PlayerAbility value="FrostNova"/>
+

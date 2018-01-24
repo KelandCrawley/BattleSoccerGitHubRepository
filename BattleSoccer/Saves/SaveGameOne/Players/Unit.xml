@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Name value="Unit"/>
+<PlayerStrength value="85"/>
+<PlayerSPeed value="325"/>
+<PlayerShoot value="70"/>
+<PlayerCatch value="88"/>
+<PlayerPosition value="GL"/>
+<PlayerAbility value="FrostNova"/>
+
